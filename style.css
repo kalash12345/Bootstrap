@@ -1,0 +1,54 @@
+#services_offered{
+	margin-top: 40px;
+}
+
+.services-col{
+	padding: 20px;
+	text-align: center;
+}
+
+.image{
+	width: 20%
+}
+
+.service-content{
+	margin-top: 40px;
+}
+
+#gallery{
+	margin-top: 100px;
+}
+
+.image-container{
+	text-align: center;
+	width: 500px;
+}
+
+button{
+	margin-top: 100px;
+	text-align: center;
+	margin-left: 475px;
+}
+
+footer{
+	background-color: #212529;
+	color: white;
+	margin-top: 70px;
+	padding: 20px;
+}
+
+.footer-link{
+	color: white;
+}
+
+.footer-link:hover{
+	color: white;
+}
+
+ul{
+	list-style: none;
+}
+
+.logo{
+	width: 50%
+}
